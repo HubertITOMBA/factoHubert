@@ -1,0 +1,3 @@
+{
+    "extends": ["next/code-web-vitals"]
+}
